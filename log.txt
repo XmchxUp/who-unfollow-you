@@ -158,3 +158,4 @@ User commitwave unfollowed you.	 ---- 2026-10-06
 User OnFinality9 unfollowed you.	 ---- 2026-10-06
 User coffsec unfollowed you.	 ---- 2026-10-20
 User liesbethbelmokhtar203-source unfollowed you.	 ---- 2026-10-30
+User Lxcardoza993 unfollowed you.	 ---- 2026-11-01
