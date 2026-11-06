@@ -160,3 +160,4 @@ User coffsec unfollowed you.	 ---- 2026-10-20
 User liesbethbelmokhtar203-source unfollowed you.	 ---- 2026-10-30
 User Lxcardoza993 unfollowed you.	 ---- 2026-11-01
 User buildlabs-io unfollowed you.	 ---- 2026-11-03
+User coffsec unfollowed you.	 ---- 2026-11-06
